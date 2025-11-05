@@ -6,6 +6,8 @@
   "summary_title": "SmartDots Summary for event 398",
   "report_name": "SmartDots_Report_Event_398",
   "report_title": "SmartDots Report for event 398",
+  "wgbiop_name": "SmartDots_WGBIOP_mastertable_Event_398",
+  "wgbiop_title": "SmartDots WGBIOP mastertable Report for event 398",
   "report_tokens": "tokens goes here",
   "mode_definition": "standard",
   "strata": ["strata"]
